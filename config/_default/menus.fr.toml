@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Accueil"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Le Discgolf"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Contactez-nous"
+  weight = 400
+  identifier = "contact"
+  url = "/contact/"
+
+  [[main]]
+  name = "Le parcours de la Prévalaye"
+  weight = 400
+  identifier = "prévalaye"
+  url = "/prévalaye/"
+
+  [[main]]
+  name = "Le parcours de Monfort"
+  weight = 400
+  identifier = "monfort"
+  url = "/monfort/"
