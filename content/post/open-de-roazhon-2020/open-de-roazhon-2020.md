@@ -8,7 +8,7 @@ Après un report dû à la Covid19 au printemps, l’open de Roazhon 2020 a eu 
 
 34 joueuses et joueurs ont concouru sur le parcours de la Prévalaye.
 
-Félicitation à Isabella Shubert, Dorian Legendre et Thomas Bourgoin qui remporte respectivement la division amateur féminine, la division amateur et la division pro
+Félicitations à Isabella Shubert, Dorian Legendre et Thomas Bourgoin qui remportent respectivement les premières places des divisions amateur féminine, amateur open et division pro
 
 
-Les résultats complets [sont disponible ici](https://discgolfmetrix.com/1476129)
+Les résultats complets [sont disponibles ici](https://discgolfmetrix.com/1476129)

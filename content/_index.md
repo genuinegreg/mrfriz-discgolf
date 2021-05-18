@@ -1,4 +1,4 @@
-_MrFriz Discgolf_ est la section discgolf du club d’ultimate _MrFriz_ depuis 2016 (si vous souhaiter découvrir l’ultimate frisbee [c’est par ici](www.mrfriz.fr)).
+_MrFriz Discgolf_ est la section discgolf du club d’ultimate _MrFriz_ depuis 2016 (si vous souhaitez découvrir l’ultimate frisbee [c’est par ici](www.mrfriz.fr)).
 
 Les objectifs de la section discgolf sont de promouvoir le discgolf à Rennes via l’organisation de tournois régionaux fédéraux sur Rennes et ainsi que des tournois « club » ouverts à tous.
 
@@ -14,13 +14,13 @@ Les objectifs de la section discgolf sont de promouvoir le discgolf à Rennes vi
 
 ### Entrainements
 
-Le club ne propose pas d’entrainement fixe, les joueurs du club et les pratiquants rennais se retrouvent au parcours de la Prévalaye en fonction de la météo et des dispo de chacun.
+Le club ne propose pas d’entrainement fixe, les joueurs du club et les pratiquants rennais se retrouvent au parcours de la Prévalaye en fonction de la météo et des dispos de chacun.
 
 ### Initiations
 
-Pour les initiations, nous proposons au petit groupe (3-5 personnes max) de se joindre à nous lors d’un « entrainement ». Pour le moment le club ne propose pas d’animation pour les groupes plus nombreux faute de temps et de bénévoles.
+Pour les initiations, nous proposons aux petits groupes (3-5 personnes max) de se joindre à nous lors d’un « entrainement ». Pour le moment le club ne propose pas d’animation pour les groupes plus nombreux faute de temps et de bénévoles.
 
-Le parcours de la Prévalaye étant en accès libre il est aussi possible de découvrir le discgolf de votre côté, vous pouvez venir jouer avec vos propres Frisbees ou emprunter des disques a l’écocentre de la Taupinais a 2 pas du départ (pour cela, contacter directement l’écocentre de la Taupinais [discgolf-prevalaye@ville-rennes.fr](discgolf-prevalaye@ville-rennes.fr))
+Le parcours de la Prévalaye étant en accès libre il est aussi possible de découvrir le discgolf de votre côté, vous pouvez venir jouer avec vos propres Frisbees ou emprunter des disques à l’écocentre de la Taupinais à 2 pas du départ (pour cela, contacter directement l’écocentre de la Taupinais [discgolf-prevalaye@ville-rennes.fr](discgolf-prevalaye@ville-rennes.fr))
 
 
 -----
