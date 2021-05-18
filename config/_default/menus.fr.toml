@@ -11,12 +11,6 @@
   url = "/post/"
 
   [[main]]
-  name = "Le Discgolf"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
-
-  [[main]]
   name = "Contactez-nous"
   weight = 400
   identifier = "contact"
